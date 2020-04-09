@@ -20,3 +20,19 @@ Your task is to create a function that, when fed the inputs below, produce the s
 
 "A1B2C3D4" ➞ "ABBCCCDDDD"
 ```
+
+## Running the code
+
+You need to have [https://golang.org/](Go) installed on your local machine
+
+1. Clone this repository
+```
+git clone https://github.com/iammerus/coding-challenge-001
+```
+
+2. Run the tests
+```
+go test
+```
+
+3. Hopefully the solution works
