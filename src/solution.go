@@ -4,6 +4,6 @@ func main() {
 
 }
 
-func reverse(input string) {
-
+func reverse(input string) string {
+	return ""
 }
